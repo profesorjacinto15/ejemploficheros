@@ -2,7 +2,19 @@ package ejemploficheros;
 
 import java.io.*;
 
+/**
+ * Clase para leer un caracter
+ * @author jacinto
+ *
+ */
+
 public class EjemploLecturaChar {
+	
+	/**
+	 * Método main que ejecuta el programa
+	 * @param args
+	 */
+	
 	public static void main(String[] args) {
 		String nombreArchivo = "//Users/jacinto/Documents/prueba/p2.txt";
 			
