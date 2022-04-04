@@ -17,6 +17,8 @@ public class EjemploLecturaChar {
 	
 	public static void main(String[] args) {
 		String nombreArchivo = "//Users/jacinto/Documents/prueba/p2.txt";
+		
+		//Try catch
 			
 		try {
 			FileOutputStream fo = new FileOutputStream(nombreArchivo);
